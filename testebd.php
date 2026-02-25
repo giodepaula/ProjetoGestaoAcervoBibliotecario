@@ -10,7 +10,7 @@ try {
     echo "sucesso: A ponte com o Banco de Dados funcionou";
   }
 } catch(Execption $e){
-    echo "error: Algo deu errado na tentativa de solução"
+    echo "error: Algo deu errado na tentativa de solução";
 
 }
 ?>
